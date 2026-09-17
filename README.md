@@ -65,7 +65,7 @@
 ### 🚀 Featured Projects
 
 *   **[Neurodegenerative Disease Detection](https://github.com/ivanrdgz03/neurodegenerative-diagnosis/)**: Development of multimodal Deep Learning models (DenseNet and ResNet-34) for Alzheimer's detection by processing neuroimages (MRI), achieving an overall accuracy of 80.72%.
-*   **Personal Cloud Infrastructure (Homelab)**: Design of a self-hosted environment in Proxmox VE with a dedicated LXC node orchestrating over 35 Docker containers. Integrates Zero-Trust networking with Tailscale, real-time monitoring via Grafana, and centralized Single Sign-On with Authentik.
+*   **[Personal Cloud Infrastructure (Homelab)](https://github.com/ivanrdgz03/homelab/)**: Design of a self-hosted environment in Proxmox VE with a dedicated LXC node orchestrating over 35 Docker containers. Integrates Zero-Trust networking with Tailscale, real-time monitoring via Grafana, and centralized Single Sign-On with Authentik.
 
 <br>
 
