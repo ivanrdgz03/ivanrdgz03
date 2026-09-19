@@ -3,7 +3,7 @@
   <h3><em>Computer Engineer specialized in Computing and Intelligent Systems 👨🏽‍💻</em></h3>
   <p>
     <img src="https://komarev.com/ghpvc/?username=ivanrdgz03&label=Profile%20views&color=0e75b6&style=flat" alt="ivanrdgz03" />
-    <a href="https://ivanrdgz.dpdns.org" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-255E63?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://ivanrdgz.es" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Website-255E63?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/ivanrodriguezchacon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 </div>
